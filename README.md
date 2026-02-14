@@ -99,7 +99,7 @@ Das System wurde mit einem „Dark Premium“-UI-Ansatz und maximaler Performanc
 ## 2️⃣ Repository klonen
 
 ```bash
-git clone https://github.com/USERNAME/black-phanter.git
+git clone https://github.com/TGH-Scripts/black-phanter.git
 cd black-phanter
 ```
 
