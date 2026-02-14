@@ -229,4 +229,5 @@ Nutzung nur mit ausdrücklicher Genehmigung.
 
 Erstellt: 14.02.2026  
 Projekt: **Black Phanter Web-Plattform**
-Development: TGH-Scripts
+
+Development: **TGH-Scripts**
