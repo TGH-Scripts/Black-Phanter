@@ -2,11 +2,13 @@
 
 © 2026 Black Phanter – Alle Rechte vorbehalten.
 
-Dieses Projekt, einschließlich des gesamten Quellcodes, der Architektur, der Datenbankstruktur, der Designs, der Inhalte sowie aller damit verbundenen Dateien, unterliegt dem nationalen und internationalen Urheberrecht sowie den geltenden Gesetzen zum Schutz geistigen Eigentums.
+Dieses Projekt, einschließlich des gesamten Quellcodes, der Systemarchitektur, der Datenbankstruktur, der Designs, der Inhalte sowie sämtlicher zugehöriger Dateien und Komponenten, ist urheberrechtlich geschützt und unterliegt dem nationalen sowie internationalen Recht zum Schutz geistigen Eigentums.
 
-Jegliche Nutzung ist ausschließlich mit einer ausdrücklich erteilten, schriftlichen Lizenzvereinbarung des Rechteinhabers zulässig.
+Jegliche Nutzung ist ausschließlich mit einer ausdrücklich erteilten, gültigen und schriftlichen Lizenzvereinbarung des Rechteinhabers zulässig.
 
-Ohne gültige Lizenz ist insbesondere untersagt:
+---
+
+## 🚫 Ohne gültige Lizenz ist insbesondere untersagt:
 
 - das Kopieren oder Vervielfältigen des Quellcodes (ganz oder teilweise)
 - das Modifizieren oder Erstellen abgeleiteter Werke
@@ -14,18 +16,77 @@ Ohne gültige Lizenz ist insbesondere untersagt:
 - das öffentliche Zugänglichmachen
 - das Reverse Engineering oder Dekompilieren
 - die kommerzielle oder nicht-kommerzielle Nutzung jeglicher Bestandteile
-- das Entfernen oder Verändern von Copyright-Vermerken
+- die Weitergabe an Dritte
+- das Entfernen oder Verändern von Copyright-, Lizenz- oder Markenhinweisen
+- die Umgehung oder Manipulation technischer Schutzmaßnahmen oder Lizenzmechanismen
 
-Zuwiderhandlungen stellen eine Verletzung des Urheberrechts dar und können sowohl zivilrechtliche als auch strafrechtliche Konsequenzen nach sich ziehen.
+---
+
+## ⚠️ Rechtsfolgen bei Verstößen
+
+Zuwiderhandlungen stellen eine schwerwiegende Verletzung des Urheberrechts dar und können sowohl zivilrechtliche als auch strafrechtliche Konsequenzen nach sich ziehen.
 
 Der Rechteinhaber behält sich ausdrücklich vor:
 
 - Unterlassungsansprüche geltend zu machen
 - Schadensersatzforderungen durchzusetzen
 - Lizenznachforderungen rückwirkend zu berechnen
+- Vertragsstrafen geltend zu machen
 - strafrechtliche Schritte einzuleiten
 - internationale Rechtsdurchsetzung zu betreiben
 
-Die unerlaubte Nutzung dieses Projekts kann erhebliche finanzielle Konsequenzen zur Folge haben.
+Jede unerlaubte Nutzung kann erhebliche finanzielle Konsequenzen zur Folge haben.
 
-Mit dem Zugriff auf dieses Repository erkennen Sie diese Bedingungen ausdrücklich an.
+Mit dem Zugriff auf dieses Repository oder der Nutzung des Codes erkennen Sie diese Bedingungen ausdrücklich an.
+
+---
+
+# 💼 Lizenzmodelle
+
+Zur rechtmäßigen Nutzung dieses Projekts stehen folgende Lizenztypen zur Verfügung:
+
+---
+
+## 🔹 Basic Lizenz
+
+- Preis: **199 €**
+- Gültigkeit: **1 Jahr**
+- Enthält: **Alle Features**
+- Updates: Sicherheitsupdates während der Laufzeit
+- Nutzung: Standardlizenz ohne White-Label-Rechte
+
+---
+
+## 🔹 Pro Lizenz
+
+- Preis: **499 €**
+- Gültigkeit: **Lebenslang**
+- Enthält:
+  - Alle Features
+  - Priority Updates
+- Kommerzielle Nutzung gestattet
+- Erweiterte Update-Berechtigung
+
+---
+
+## 🔹 Enterprise Lizenz
+
+- Preis: **1499 €**
+- Gültigkeit: **Lebenslang**
+- Enthält:
+  - Alle Features
+  - White-Label Nutzung (Entfernung von „Powered by Black Phanter“)
+  - Priority Support
+- Erweiterte kommerzielle Nutzung
+- Individuelle Vereinbarungen für Unternehmenslösungen möglich
+
+---
+
+# 📌 Wichtiger Hinweis
+
+Jede Installation oder produktive Nutzung ohne gültige Lizenz gilt als rechtswidrig.
+
+Lizenzschlüssel werden individuell vergeben und können technisch validiert werden.  
+Missbrauch, Manipulation oder Umgehung von Lizenzmechanismen führt zur sofortigen Lizenzkündigung sowie zur Einleitung rechtlicher Schritte.
+
+Für Lizenzanfragen oder individuelle Vereinbarungen kontaktieren Sie den Rechteinhaber direkt.
